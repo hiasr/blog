@@ -1,0 +1,13 @@
+baseURL = 'https://hias.xyz'
+languageCode = 'en-us'
+title = 'Ruben Hias'
+theme = "hello-friend-ng"
+
+[params]
+    homeSubtitle = "A blog about my life and my projects"
+
+[[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts"
+    
